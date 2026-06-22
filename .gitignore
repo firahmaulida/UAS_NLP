@@ -1,0 +1,31 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# File Besar & Binary (WAJIB DIABAIKAN)
+data/
+ffmpeg.exe
+*.wav
+*.mp3
+*.zip
+*.7z
+*.exe
+*.bin
+*.pkl
+*.pth
+*.h5
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
